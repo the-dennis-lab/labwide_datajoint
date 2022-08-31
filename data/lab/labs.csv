@@ -1,0 +1,8 @@
+lab,lab_name,institution,address,time_zone,location,location_description
+dennis,'Dennis Lab’,Janelia,"19700 Helix Drive, Ashburn, VA",UTC-5,'2W.340’,‘hex arena rig room’
+voigts,'Voigts Lab’,Janelia,"19700 Helix Drive, Ashburn, VA",UTC-5,'2W.345’,‘Jakob’s rig room’
+branson,'Branson Lab’,Janelia,"19700 Helix Drive, Ashburn, VA",UTC-5,'2C’,‘Roian’s office’
+froemke,'Froemke Lab’,NYU,address,UTC-5,'NYC’,'Rob’s lab’
+graham,'Graham Lab’,Princeton,address,UTC-5,'StonyFord’,'stony ford and Guyot’
+knowles,'Knowles Lab’,Oxford,address,UTC+1,'Skokholm and Oxford’,'Sarah’s lab and island research location’
+elhady,'El Hady Lab’,Konstanz,address,UTC+2,'Konstanz’,'Ahmed’s lab’

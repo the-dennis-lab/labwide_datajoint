@@ -11,10 +11,7 @@ if 'custom' not in dj.config:
 
 db_prefix = dj.config['custom'].get('database.prefix','')
 
-__all__ = ['session','Subject','Lab','Protocol','User','Project',
-           'ProjectKeywords','ProjectPublication','ProjectSourceCode',
-           'ProjectUser','Session','SessionDirectory','SessionExperimenter',
-           'SessionNote','ProjectSession']
+__all__ = ['session','Subject','Lab','Protocol','User','Project','Session']
 
 lab.activate(db_prefix + 'lab')
 
